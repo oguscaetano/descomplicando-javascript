@@ -1,6 +1,6 @@
-# Fundamentos de JavaScript
+# Descomplicando JavaScript
 
-Repositório do curso `Fundamentos de JavaScript` do Gus
+Repositório do curso `Descomplicando JavaScript` da LINUXtips
 
 Links úteis:  
 - [VSCode](https://code.visualstudio.com/)
