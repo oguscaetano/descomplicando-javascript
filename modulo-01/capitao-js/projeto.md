@@ -8,7 +8,7 @@ Cada requisito é uma missão.
   <p>Capitão JS (o brabo)</p>
 </div>
 
-O objetivo deste projeto é colocar em prática os conhecimentos adquiridos de:
+## Conceitos Praticados
 
 - Variáveis
 - Tipos de dados
